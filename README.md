@@ -27,3 +27,7 @@ Implemented neural network models to predict hotel booking cancellations, identi
 🔗 Repository: [View project](https://github.com/mariafelicitash/booking-cancellation-prediction)
 
 ---
+
+### 📊 Predicting a Store's Sales  
+Developed a time series forecasting model to estimate monthly store sales, applying a classical statistical approach suited to limited historical data. Implemented an ARIMA model to capture temporal patterns such as trend and autocorrelation.  
+🔗 Repository: [View project](https://github.com/mariafelicitash/predicting-store-sales)
