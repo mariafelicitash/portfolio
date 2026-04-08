@@ -31,3 +31,9 @@ Implemented neural network models to predict hotel booking cancellations, identi
 ### 📊 Predicting a Store's Sales  
 Developed a time series forecasting model to estimate monthly store sales, applying a classical statistical approach suited to limited historical data. Implemented an ARIMA model to capture temporal patterns such as trend and autocorrelation.  
 🔗 Repository: [View project](https://github.com/mariafelicitash/predicting-store-sales)
+
+---
+
+### 🕵 Early Detection of Churn in a Telecommunications Company  
+Developed a binary classification model to predict customer churn using telecommunications data, leveraging ensemble bagging techniques. Compared a heterogeneous bagging classifier against Random Forest to evaluate performance and identify key drivers of customer attrition.  
+🔗 Repository: [View project](https://github.com/mariafelicitash/detection-churn-telecommunications)
