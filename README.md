@@ -37,3 +37,9 @@ Developed a time series forecasting model to estimate monthly store sales, apply
 ### 🕵 Early Detection of Churn in a Telecommunications Company  
 Developed a binary classification model to predict customer churn using telecommunications data, leveraging ensemble bagging techniques. Compared a heterogeneous bagging classifier against Random Forest to evaluate performance and identify key drivers of customer attrition.  
 🔗 Repository: [View project](https://github.com/mariafelicitash/detection-churn-telecommunications)
+
+---
+
+### 📰 Natural Language Processing — Fake News Detection  
+Developed a text classification model to detect fake news, leveraging pre-trained word embeddings and deep learning techniques to capture semantic meaning and linguistic patterns. Focused on modeling sequential language structures to improve classification performance between real and fake articles.  
+🔗 Repository: [View project](https://github.com/mariafelicitash/nlp-fakenews)
