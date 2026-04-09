@@ -1,6 +1,7 @@
 # Portfolio
 
-Selected projects demonstrating applied Data Science, with a focus on extracting actionable insights from real-world data.
+Selected projects demonstrating applied Data Science,   
+with a focus on extracting actionable insights from real-world data.
 
 ---
 
