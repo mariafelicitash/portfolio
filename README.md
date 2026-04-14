@@ -1,6 +1,7 @@
 # Portfolio
 
-Selected projects demonstrating applied Data Science,   
+Selected projects I've been doing for DesafioLatam bootcamp,
+demonstrating applied Data Science,   
 with a focus on extracting actionable insights from real-world data.
 
 ---
