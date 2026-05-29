@@ -1,6 +1,6 @@
 # Portfolio
 
-Applied Data Science and LLM projects developed through the Desafío Latam bootcamp and personal initiatives.
+Selected projects of applied Data Science and LLM projects developed through the Desafío Latam bootcamp and personal initiatives.
 
 ---
 
