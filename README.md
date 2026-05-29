@@ -1,9 +1,7 @@
 # Portfolio
 
-Selected projects I've been doing for DesafioLatam bootcamp,
-demonstrating applied Data Science,   
-with a focus on extracting actionable insights from real-world data.
-
+Selected projects developed through the Desafío Latam bootcamp and personal initiatives,
+demonstrating applied Data Science and LLM-based solutions.
 ---
 
 ### ✈️ Flight Price Prediction  
