@@ -1,6 +1,6 @@
 # Portfolio
 
-Selected projects developed through the Desafío Latam bootcamp and personal projects, demonstrating applied Data Science and LLM-based solutions focused on extracting actionable insights from real-world data.
+Applied Data Science and LLM projects developed through the Desafío Latam bootcamp and personal initiatives.
 ---
 
 ### ✈️ Flight Price Prediction  
