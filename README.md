@@ -45,3 +45,27 @@ Developed a binary classification model to predict customer churn using telecomm
 ### 📰 Natural Language Processing — Fake News Detection  
 Developed a text classification model to detect fake news, leveraging pre-trained word embeddings and deep learning techniques to capture semantic meaning and linguistic patterns. Focused on modeling sequential language structures to improve classification performance between real and fake articles.  
 🔗 Repository: [View project](https://github.com/mariafelicitash/nlp-fakenews)
+
+---
+
+### 🧠 LLM-Powered Docstring Generator
+
+Developed a modular NLP pipeline to automatically generate high-quality Python docstrings in Google, NumPy, and Sphinx styles using open-source large language models. Implemented AST-based code analysis, canonical schema normalization, style-specific rendering layers, and deterministic insertion logic to produce clean, production-ready documentation from raw Python functions.
+
+🔗 Repository: [View project](https://github.com/mariafelicitash/docstring-generator)
+
+---
+
+### 🧬 Exploring Biomedical Summarization Pipelines with BART, BioBART, and FalconsAI
+
+Developed and evaluated transformer-based summarization pipelines for biomedical literature using domain-adapted language models. Implemented token-based chunking strategies, generated abstractive summaries from PubMed articles, and compared model performance through ROUGE evaluation metrics to analyze summarization quality and domain adaptation effectiveness.
+
+🔗 Repository: [View project](https://github.com/mariafelicitash/-llm-biomedical-summarization)
+
+---
+
+### 🤖 Semantic Question Answering with Transformers
+
+Developed a semantic Question Answering system using transformer-based embeddings and generative language models to retrieve and generate answers from Data Science and Machine Learning knowledge datasets. Implemented vector similarity search for semantic retrieval and integrated a transformer-based QA pipeline to produce context-aware responses.
+
+🔗 Repository: [View project](https://github.com/mariafelicitash/datascience-concept-qa)
