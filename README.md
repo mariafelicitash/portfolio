@@ -1,6 +1,7 @@
 # Portfolio
 
 Applied Data Science and LLM projects developed through the Desafío Latam bootcamp and personal initiatives.
+
 ---
 
 ### ✈️ Flight Price Prediction  
